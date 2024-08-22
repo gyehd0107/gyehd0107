@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
+
 
 ### 📖Tech Stack
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white">
 
-
+langue
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 ### 🏆Awrds
 ▶️2023.11.16 한국인터넷방송통신학회-IIBC Start-up Invention Contest 금상
 
-
+### Baekjoon
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
