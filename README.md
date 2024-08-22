@@ -2,9 +2,9 @@
 
 
 
-### 📑Once I've Used
+### 📌Main
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> 
-
+### 📑Once I've Used
 <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 langue
