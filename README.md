@@ -3,12 +3,10 @@
 
 
 ### 📑Once I've Used
-<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/ECLIPSE-1572B6?style=for-the-badge&logo=ECLIPSE&logoColor=white">
-​<img src="https://img.shields.io/badge/GItHUB-1572B6?style=for-the-badge&logo=GItHUB&logoColor=white">
+<img src="https://img.shields.io/badge/python#3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/anaconda#44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter#F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
 
 <!--
 **AIoT-HD/AIoT-HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
