@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)]
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+​
+[출처] 개발자들의 sns 깃허브 개발자가 되고싶다면 일단 gitHub 리드미 꾸미기|작성자 김고고
 <!--
 **AIoT-HD/AIoT-HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
