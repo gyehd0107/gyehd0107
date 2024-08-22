@@ -3,7 +3,7 @@
 
 
 ### 📑Tech Stack
-<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white">
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
