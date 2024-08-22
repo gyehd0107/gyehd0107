@@ -3,7 +3,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
 
 
-📖Tech Stack\n
+📖Tech Stack
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)]
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
