@@ -9,6 +9,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <!--
 **AIoT-HD/AIoT-HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
