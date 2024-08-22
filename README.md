@@ -2,9 +2,9 @@
 
 
 
-### 📖Tech Stack
+### 📑Tech Stack
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ​
@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)
 -->
 
-<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white">
+
 
 langue
 
