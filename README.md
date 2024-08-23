@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🏆Awrds
+### 🏆Awards
 ▶️2023.11.16 한국인터넷방송통신학회-IIBC Start-up Invention Contest 금상
 
 ### Baekjoon
