@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)](https://github.com/anuraghazra/github-readme-stats)
 
 
