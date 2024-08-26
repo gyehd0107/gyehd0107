@@ -17,3 +17,7 @@
 
 ### Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
+
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
