@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIoT-HD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyehd0107)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🏆Awards
