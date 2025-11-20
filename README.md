@@ -18,6 +18,9 @@
 ▶️2023.11.16 한국인터넷방송통신학회-IIBC Start-up Invention Contest 금상
 
 해커톤 장려상
+글로벌 해커톤 충청남도지사상
+해커톤 최우수
+한국관광공사 x 카카오 장려상
 
 ### Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksusu)](https://solved.ac/oksusu)
